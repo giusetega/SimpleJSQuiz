@@ -1,0 +1,72 @@
+body{
+    background-color: #f06226;
+    color: white;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+#container{
+    width: 70%;
+    background-color: #199fbd;
+    margin: 30px auto;
+    overflow: auto;
+    padding: 40px;
+}
+
+header{
+    text-align: center;
+    border-bottom: 10px dashed white;
+}
+
+header h1{
+    margin: 0;
+}
+
+header p{
+    margin-top: 5px;
+    color: black;
+}
+
+section{
+    min-height: 400px;
+}
+
+footer{
+    text-align: center;
+}
+
+
+input[type="submit"]{
+    background-color: orange;
+    margin-top: 15px;
+    padding: 10px;
+    font-size: 16px;
+    border: 0px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#results h3{
+    background-color: orange;
+    margin: 12px;
+    padding: 10px;
+}
+
+#results span{
+    background-color: black;
+    font-weight: bold;
+    margin: 12px;
+}
+
+
+/*section form[name='quizForm']{
+    background-color: red;
+}*/
+
+
+
+
+
+
+
+
